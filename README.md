@@ -11,7 +11,7 @@ Mobile - touch screen to move
 
 
 WebGl player
-https://matthewragas.github.io/Slide-a-Cylinder/player/
+https://matthewragas.github.io/Slide-a-Cylinder/Player/
 
 Documentation
 https://matthewragas.github.io/Slide-a-Cylinder/docs/
